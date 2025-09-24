@@ -9,9 +9,10 @@
 
 ## История царей: Алёшин Виктор (@viktoralyoshin), Белей Егор (@snipermocs), Дагуров Михаил (@miaskii),  Денис Гаврилин (@gavrilindn), Геннадий Полетаев (@ddashadyy), Сафронов Андрей (@devAndreyS), Сенькин Владимир (@irony228), Сергеев Владимир (@serg_vladimir),Серявина Софья (@pokoooev), Балкунова Софья (@SofyaBalkunova), Субботин Кирилл (@Den_Sab1), Катрук Артём (@tregyn_OJ)
 =======
-## Царь Горы: Голубев Егор (@se7entomo)
+## Царь Горы: Балкунова Софья (@SofyaBalkunova)
 
 ## История царей: Тапхаров Вячеслав (@RigLatvin), Алёшин Виктор (@viktoralyoshin), Белей Егор (@snipermocs), Гаврилин Денис (@gavrilindn), Голубев Егор (@se7entomo), Дагуров Михаил (@miaskii), Иванова Анастасия(@Nastya630), Кабанова Дарья (@Ponchik000), Каракотов Тимур (@Timur072604), Катрук Артём (@tregyn_OJ), Кутняков Дмитрий (@Chesir), Милюхин Андрей(@chebupelb), Михайлов Максим(@Tatsunok0), Остапенко Василий(@Same2112), Павлов Никита (@veineine), Полетаев Геннадий (@ddashadyy), Разманов Артём (@XArtemiDX), Сальников Дмитрий (@DimanProI), Сафронов Андрей (@devAndreyS), Сенькин Владимир (@irony228), Сергеев Владимир (@serg_vladimir), Серявина Софья (@pokoooev),Соснова Юлия(@DirtyScorp),Субботин Кирилл (@Den_Sab1), Черепанова Анастасия (@shinakyu), Швецов Евгений (@Rzh3nk), Швецова Алина (@AmphoMeowerrr), Шевцов Данил (@RVLqw)
+Балкунова Софья (@SofyaBalkunova)
 >>>>>>> f3264cb1470c156485fbe5b41bb8f00dee55f925
 
 >>>>>>> upstream/main
